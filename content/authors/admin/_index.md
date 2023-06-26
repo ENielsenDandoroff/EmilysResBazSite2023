@@ -26,9 +26,8 @@ bio: My research interests include rare disorder genetics and cancer risk factor
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Genetics
+  - Biochemistry
 
 # Education to show in About widget
 education:
